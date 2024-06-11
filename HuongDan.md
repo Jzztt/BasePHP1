@@ -8,9 +8,9 @@ Thay đổi tên `$myDB` trong folder `includes` theo tên database mà đề b�
 
 Trước tiên, bạn cần thay đổi tên của controller và model theo yêu cầu của đề bài.
 
-## 3. Viết Các Chức Năng Theo Comment
+## 3. Trong trang index (điều hướng) Hãy dựa vào các gợi ý dưới đây để xây dựng.
 
-Dựa vào các comment trong phần `switch` của `index`, bạn cần viết các chức năng tương ứng. Mỗi `case` trong `switch` đại diện cho một hành động khác nhau.
+Mỗi `case` trong `switch` đại diện cho một hành động khác nhau.
 
 ### Các Chức Năng
 
