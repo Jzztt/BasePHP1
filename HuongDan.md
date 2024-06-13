@@ -14,7 +14,7 @@ Mỗi `case` trong `switch` đại diện cho một hành động khác nhau.
 
 ### Các Chức Năng
 
-- `default`:
+- `index`:
   - Hiển thị trang chủ
 - `form_create`:
   - Hiển thị form create
